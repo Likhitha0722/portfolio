@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+}
+h1{
+    color: pink;
+}
+header{
+    background-color: black;
+    height: 100px;
+    padding:20px;
+}
+ul li {
+    display:inline;
+    color:aquamarine;
+    padding:20px;
+}
+ul li a{
+    color:aquamarine;
+    text-decoration: none;
+}
+#home img{
+    border-radius: 50%;
+    height:200px;
+    width:200px;
+}
+#Portfolio{
+    background-color: pink;
+    height:200px;
+}
+#Skills {
+    background-color: rgb(195, 155, 192);
+    height:100px;
+}
+#Skills UL LI{
+    color: black;
+}
+#Contact{
+    background-color: lightblue;
+}
+footer{
+    background-color: bisque;
+}
